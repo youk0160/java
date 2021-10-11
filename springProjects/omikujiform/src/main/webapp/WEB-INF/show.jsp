@@ -18,5 +18,6 @@
 	The next time you see a <c:out value="${living}"></c:out>,
 	you will have good luck. Also, <c:out value="${fortune}"></c:out>
 	</p>
+	<a href="/omikuji">Go Back</a>
 </body>
 </html>
